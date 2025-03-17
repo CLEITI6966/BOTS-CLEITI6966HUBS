@@ -16,7 +16,8 @@ tokens = [
     os.getenv('TOKEN4'),
     os.getenv('TOKEN5'),
     os.getenv('TOKEN6'),
-    os.getenv('TOKEN7')
+    os.getenv('TOKEN7'),
+    os.getenv('TOKEN8')
 ]
 
 # Função para ler o conteúdo de um arquivo .txt
